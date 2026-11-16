@@ -12,6 +12,6 @@
 
 ### Requirements <!-- place an `x` in each `[ ]` -->
 
-- [ ] I have ensured the changes I am contributing align with existing patterns and have tested and linted my code.
+- [ ] I've read and understood the [Contributing Guidelines](https://github.com/slack-samples/.github/blob/main/.github/CONTRIBUTING.md) and have done my best effort to follow them.
 - [ ] I've read and agree to the [Code of Conduct](https://slackhq.github.io/code-of-conduct).
 - [ ] I have signed the [Salesforce CLA](https://cla.salesforce.com/sign-cla) (required before your PR can be reviewed or merged).
