@@ -6,11 +6,12 @@
 
 ### Summary
 
-Describe the goal of this PR. Mention any related Issue numbers. 
+<!-- Describe the goal of this PR. Mention any related Issue numbers. -->
 
-If you are introducing a new sample app in this pull request, please also include a detailed description of the application’s purpose and functionality.
+<!-- If you are introducing a new sample app in this pull request, please also include a detailed description of the application’s purpose and functionality. -->
 
-### Requirements <!-- place an x in each [ ] that applies -->
+### Requirements <!-- place an `x` in each `[ ]` -->
 
-- [ ] I have ensured the changes I am contributing align with existing patterns and have tested and linted my code
-- [ ] I've read and agree to the [Code of Conduct](https://slackhq.github.io/code-of-conduct)
+- [ ] I have ensured the changes I am contributing align with existing patterns and have tested and linted my code.
+- [ ] I've read and agree to the [Code of Conduct](https://slackhq.github.io/code-of-conduct).
+- [ ] I have signed the [Salesforce CLA](https://cla.salesforce.com/sign-cla) (required before your PR can be reviewed or merged).
